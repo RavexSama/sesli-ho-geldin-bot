@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+     "AUTHORS": ["BOTUN SAHİP İD"],
+     "ACTIVITY_TEXT": "Leman'a hoşgeldin",
+     "GUILD_ID": "SUNUCU ID",
+     "VOICE_CHANNEL": "BOTUN GİRECEĞİ SES KANAL ID",
+     "MIN_STAFF_ROLE": "EN DÜŞÜK YETKİLİ ID"
+   },
+   "FILES": {
+     "WELCOME": "https://cdn.discordapp.com/attachments/826141237471871016/866012350224793601/ses_welcome.mp3",
+     "STAFF": "https://cdn.discordapp.com/attachments/826141237471871016/866012337944133683/ses_yetkili.mp3"
+   }
+ }
+ 
